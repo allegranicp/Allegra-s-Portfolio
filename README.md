@@ -5,28 +5,20 @@ Changing the world one robot at a time!
 ### About Me
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Coming Soon
 
 ### Projects
 
+```markdown
+Coming Soon
+
 ### Additional Links
 
+```markdown
+Coming Soon
+
 ### Contact
+
+```markdown
+Coming Soon
 
