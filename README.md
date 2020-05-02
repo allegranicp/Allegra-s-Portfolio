@@ -8,7 +8,9 @@ Automation Engineer, with a passion for Robotics and AI who rapidly learns and a
 
 ### Projects
 
+- [Autonomous Vehicle Concept]()
 - [Advanced Lane Finding](https://allegranicp.github.io/Advanced-Lane-Finding/)
+- [Traffic Light Classifier]()
 
 ### Additional Links and Contact
 
