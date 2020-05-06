@@ -8,8 +8,8 @@ Automation Engineer, with a passion for Robotics and AI who rapidly learns and a
 
 ### Projects
 
-| Project Name                 | Description                                                | Language|
-|:------------------------------|:------------------------------------------------------------:|:---------|
+| Project Name                          | Description                                                | Language|
+|:--------------------------------------|:------------------------------------------------------------:|:---------|
 |[Autonomous Vehicle Concept]()|*Details coming soon*|C++,Python|
 |[Advanced Lane Finding](https://allegranicp.github.io/Advanced-Lane-Finding/)|**Implements a lane finder using advanced computer vision techniques and lane detection algorithms:** *Binary thresholding, Sliding window*|Python|
 |[Finding Lane Lines](https://allegranicp.github.io/Finding-Lane-Lines/)|**Implements a lane finder using basic computer vision techniques:** *Canny edge detection, Hough Transform*|Python|
