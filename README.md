@@ -20,5 +20,5 @@ Automation Engineer, with a passion for Robotics and AI who rapidly learns and a
 
 ### Additional Links and Contact
 
-[Email](mailto:allegranicp@yahoo.com) | [Resume](http://github.com/resume.pdf) | [Linkedin](https://www.linkedin.com/in/allegra-nichols-0b1252127/)
+[Email](mailto:allegranicp@yahoo.com) | [Resume](http://github.com/Resume_Allegra_Nichols.pdf) | [Linkedin](https://www.linkedin.com/in/allegra-nichols-0b1252127/)
 
