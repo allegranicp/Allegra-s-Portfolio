@@ -1,9 +1,7 @@
-# *Exploring and changing the world one robot at a time!*
-
 ![alt text][image]
 
 [//]: # (Image References)
-[image]: ./background_robot.jpg "robot"
+[image]: ./background.png "robot"
 
 ## Welcome
 
