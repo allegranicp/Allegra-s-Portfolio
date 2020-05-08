@@ -1,5 +1,7 @@
 ![alt text][image]
 
+---
+
 [//]: # (Image References)
 [image]: ./background.png "robot"
 
@@ -11,30 +13,15 @@ Computer Engineer, with a passion for Robotics and AI who rapidly learns and ana
 
 
 #### Skills:
-##### Languages:
-- Python
-- C++11
-- SQL
 
-##### Design and Simulation Tools
-- AutoCAD
-- ROS
-- Labview
-- Matlab
-- Tensorflow
-- OpenCV
+| Category                         | Details                                                
+|:---------------------------------|:----------------------------------------------|
+| Languages                        | Python, C++11, SQL   |
+| Design and Simulation Tools      | AutoCAD, ROS, Labview, Matlab, Tensorflow, OpenCV |
+| Versioning and Tracking Tools    | Jira, Confluence, Github |
+| Enviornments                     | Databases (Oracle 10g -19c, SQL Sever 2002), Linux, Unix, Anaconda |
 
-##### Versioning:
- - Jira
- - Confluence
- - Github
- 
-##### Enviornments:
-- Databases (Oracle 10g -19c, SQL Sever 2002)
-- Linux
-- Unix
-- Anaconda
-
+---
 ### Projects
 
 | Project Name                          | Description                                                | Language|
