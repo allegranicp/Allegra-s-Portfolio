@@ -1,5 +1,10 @@
 # *Exploring and changing the world one robot at a time!*
 
+![alt text][image]
+
+[//]: # (Image References)
+[image]: ./background_robot.jpeg "robot"
+
 ## Welcome
 
 ### About Me
