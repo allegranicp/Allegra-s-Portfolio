@@ -3,7 +3,7 @@
 ![alt text][image]
 
 [//]: # (Image References)
-[image]: ./background_robot.jpeg "robot"
+[image]: ./background_robot.jpg "robot"
 
 ## Welcome
 
